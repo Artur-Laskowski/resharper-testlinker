@@ -4,6 +4,7 @@
 
 using System;
 using System.Linq;
+using JetBrains.Diagnostics;
 using JetBrains.ProjectModel;
 using JetBrains.ProjectModel.Properties.Managed;
 using JetBrains.ReSharper.Psi;

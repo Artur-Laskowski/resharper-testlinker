@@ -5,6 +5,7 @@
 using System;
 using System.Linq;
 using JetBrains.Annotations;
+using JetBrains.Serialization;
 using JetBrains.Util.PersistentMap;
 
 namespace TestLinker.Caching
